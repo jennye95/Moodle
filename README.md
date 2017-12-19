@@ -11,5 +11,5 @@ General Plans
 - Getting involved in Moodle developement community ; fork the Moodle Github page
 - Tnking about the projects (User data analysis, data visualization, data analytics tool for improving learning experience
   in Moodle) 
-- Talk to Matt Petro in Moodle backend on January 2nd. 
+- Talk to Matt Petro (Moodle backend developer in the university) on January 2nd. 
  
