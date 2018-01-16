@@ -12,4 +12,11 @@ General Plans
 - Tnking about the projects (User data analysis, data visualization, data analytics tool for improving learning experience
   in Moodle) 
 - Talk to Matt Petro (Moodle backend developer in the university) on January 2nd. 
+
+
+Goals :
+1. Have Moodle up and running by Jan 17 (Fix the php issue in Linux)
+2. Look into the Jira tickes and bug issues
+3. Teach myself the Moodle conventions
+4. Write a sample code for the review 
  
